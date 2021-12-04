@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-daaam-dev-190024-authRole",
+      "UnauthRoleArn": "arn:aws:iam::106979258755:role/amplify-daaam-dev-190024-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::106979258755:role/amplify-daaam-dev-190024-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-daaam-dev-190024-deployment",
+      "UnauthRoleName": "amplify-daaam-dev-190024-unauthRole",
+      "StackName": "amplify-daaam-dev-190024",
+      "StackId": "arn:aws:cloudformation:us-east-1:106979258755:stack/amplify-daaam-dev-190024/86ed2570-4c61-11ec-8afe-0ad83b7cb797",
+      "AmplifyAppId": "d7xapr7zjgjdd"
+    },
+    "categories": {
+      "auth": {
+        "daaama1f11ec6": {}
+      }
+    }
+  }
+}
