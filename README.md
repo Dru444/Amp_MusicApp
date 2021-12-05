@@ -1,4 +1,5 @@
-# How to access our music player
+# How to access our music player:    https://master.d7xapr7zjgjdd.amplifyapp.com/ 
+
 
 ## 1. If you are coming for the first time to our music player, first you have to click on Create account to register your credentials in our database.
 
