@@ -1,3 +1,23 @@
+# How to access our music player
+
+## 1. If you are coming for the first time to our music player, first you have to click on Create account to register your credentials in our database.
+
+## 2. Then register yourself and make sure your username is your E-Mail ID only, other than that it will not authenticate if your username and E-Mail ID fields don’t match.
+
+## 3. Make sure that your password is a minimum of 8 characters long.
+
+## 4. Then after clicking on create an account, you will get a verification code on your registered E-Mail ID which you have to verify on the next screen.
+
+## 5. Then you can access our music player (named as DaaaM) and when you are done you can sign out.
+
+## 6. Now if you have already accessed our music player and you are a returning user then you can normally sign in with your credentials.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
